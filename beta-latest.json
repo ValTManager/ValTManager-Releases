@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0-beta.3",
-  "notes": "ValTManager 0.2.0 Beta 3 — Beta Friends\n\n- Correction du flux d’avatar privé : aperçu immédiat, affichage Profil et sidebar, persistance et retrait.\n- Canal de mise à jour Beta Friends distinct du canal stable.\n- Corrections de création d’équipe et de roster incluses.",
-  "pub_date": "2026-09-05T00:56:49.761Z",
+  "version": "0.2.0-beta.4",
+  "notes": "ValTManager 0.2.0 Beta 4 — Beta Friends\n\n- Corrige la restauration de l’avatar cloud après redémarrage.\n- Synchronise l’avatar entre le profil et la sidebar.\n- Ajoute l’avertissement dédié à la bêta privée.\n- Conserve les correctifs de création d’équipe, d’isolation cloud et de roster fantôme.\n\nCette version est destinée au canal Beta Friends.",
+  "pub_date": "2026-09-05T01:28:56Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1RHaUZobCtkZzFiVkpTbWxwTkZkNXNDVXg0L3hyMmwrTFU4NklJS05pL2c2SXE5eTI0YXhCL1N3RUtOSXZDZzRESDQ2Qk5UOTk5aVF4TTNadU9SdHNZUE5WYVZudVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTY5NzgwCWZpbGU6VmFsVE1hbmFnZXJfMC4yLjAtYmV0YS4zX3g2NC1zZXR1cC5leGUKaXdnZnNqWEY0MEJ2eUtiaFRDV1dqNnBLTW9qQkU2bXBWdzMvSVZ1Z1BLcDIyUmp3Vk9ycjl0YnRTODFGR0tMWEdNSGFDMUtQRFdFRkZqSk5pTExHREE9PQo=",
-      "url": "https://github.com/ValTManager/ValTManager-Releases/releases/download/v0.2.0-beta.3/ValTManager_0.2.0-beta.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1RHaUZobCtkZzB6bnE1bWxQUmNVc0pqU01GR2h1cVJoRjM5OTUrdkZ5dVZJMDAwQm5oeGlXcHFFYjVySExEbGZ1SUpwbENLMVQwY0pQTlJpbUVweG5lNlZSejNSbndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTcxNjk5CWZpbGU6VmFsVE1hbmFnZXJfMC4yLjAtYmV0YS40X3g2NC1zZXR1cC5leGUKVXRSNGlSclRZWUM1cUNOci9CL0s1ZnN5S3ljZDBQSGpKZE16L0YzNUovOUQzbmNYaVFuWlVFaG45WS96ZkRPcDZyeTc2N3dQd0tQcGpiUklFdzlJQ1E9PQo=",
+      "url": "https://github.com/ValTManager/ValTManager-Releases/releases/download/v0.2.0-beta.4/ValTManager_0.2.0-beta.4_x64-setup.exe"
     }
   }
 }
