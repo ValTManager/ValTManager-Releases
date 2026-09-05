@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0-beta.6",
-  "notes": "ValTManager 0.2.0 Beta 6 — Beta Friends\n\nNouveautés\n- Invitez vos coéquipiers avec leur pseudo VTM ou Riot ID.\n- Les invitations arrivent directement dans ValTManager.\n\nAméliorations\n- Synchronisation multi-utilisateur renforcée pour les équipes cloud.\n- Joueurs et staff correctement liés au roster.\n- Publication du contenu local dans l'espace cloud de l'équipe.\n- Recherche des membres améliorée dans la Messagerie.\n\nCorrections\n- Rôles après invitation et membres absents du roster.\n- Restauration fiable du logo d'équipe après expiration de son URL d'affichage.\n\nCette version est destinée au canal Beta Friends.",
-  "pub_date": "2026-09-05T06:54:10.9849303Z",
+  "version": "0.2.0-beta.7",
+  "notes": "ValTManager 0.2.0 Beta 7 — Beta Friends\n\nCorrections\n- Correction des permissions Manager/Coach pour les compositions, stratégies et lineups.\n- Meilleure synchronisation du contexte cloud.\n- Correction de l’affichage des identités des membres liés.\n\nCette version est destinée au canal Beta Friends.",
+  "pub_date": "2026-09-05T00:00:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1RHaUZobCtkZzJWRllpcGhERVhZZy9EcG5KVDEyVkF3V3k1K1lCTWp1ZWh4SWtLTFFteks4dnJBUmpEZDNJQnVRcXVKWEtqbUFMeS84SzhIeEl1TytrNHFXMnlUMmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTkxMTcwCWZpbGU6VmFsVE1hbmFnZXJfMC4yLjAtYmV0YS42X3g2NC1zZXR1cC5leGUKUm5aUnQ3T29raVBFWmlKZm9rYXVRRlN1QlFlcjhUV2MxVG9Ra0s1dlJJVnQ4RVJocmR4eitjVDFaMkJmTTdvWnY0WWIwU1NWakdZcE9pUGlHOStFQ2c9PQo=",
-      "url": "https://github.com/ValTManager/ValTManager-Releases/releases/download/v0.2.0-beta.6/ValTManager_0.2.0-beta.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1RHaUZobCtkZ3kwbFcvbkFmcGM2Q0RyenF4MWI4dmoxNnI0MjZUdVhwVVFvK21zclgxWHkwS3FVUWlWWjFFWHorRWhwc0Vicy9zaFlacGhzMkxTUWFPRFh2c2xlbVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NjA0MzEwCWZpbGU6VmFsVE1hbmFnZXJfMC4yLjAtYmV0YS43X3g2NC1zZXR1cC5leGUKS01NMm5XWkFMbFc5Ri9iU1FlVC9LME5LNkNBclZoWG40WVRLYVNZYWdGVHM1eDBCNm9uUGtZeWtqc2pMd1JGUmJFTGZYYXFOTnVqRDJLZVFscUJjQ0E9PQo=",
+      "url": "https://github.com/ValTManager/ValTManager-Releases/releases/download/v0.2.0-beta.7/ValTManager_0.2.0-beta.7_x64-setup.exe"
     }
   }
 }
