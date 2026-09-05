@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0-beta.10",
-  "notes": "✨ Nouveautés\n\n- Synchronisation plus fiable des compositions et des tâches.\n- Correction des justifications d’avertissements pour le joueur concerné.\n- Correction et amélioration des notifications Windows.\n- Amélioration de l’espace Messagerie.\n- Correction de l’identité affichée dans les disponibilités et absences.\n- Amélioration du rafraîchissement des données entre plusieurs membres d’une équipe.",
-  "pub_date": "2026-09-05T20:18:00+02:00",
+  "version": "0.2.0-beta.11",
+  "notes": "✨ Nouveautés\n\n- Liaison fiable de l’Owner à son propre roster.\n- Brouillons de compositions conservés pendant la synchronisation cloud.\n- Écriture sécurisée des tâches et des justifications joueur.\n- Les notifications Windows ouvrent et focalisent désormais ValTManager.",
+  "pub_date": "2026-09-05T19:37:16Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1RHaUZobCtkZzZDRGlVL0hzMzVrVk5ONGJtUWxVSFQvVUE5ZEg4ZHdNcHhjYXcyUGdRT0t4MnhsQ0RLTlhZRzVpek90akI4VVo5QUliaVRwd1pKcVdnTThXazl4a1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NjMyMzE0CWZpbGU6VmFsVE1hbmFnZXJfMC4yLjAtYmV0YS4xMF94NjQtc2V0dXAuZXhlCmJDalZtZ1h1MVE2Z3lBTHBucHBqV3hBQkVYUjVmS0NWSWNrdTBEUGl6S3R2QWxOWnZobTFEVURYZExtakdBOFpVdm5DVG02NUVvTjlZN0M2Y3hqZkNBPT0K",
-      "url": "https://github.com/ValTManager/ValTManager-Releases/releases/download/v0.2.0-beta.10/ValTManager_0.2.0-beta.10_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1RHaUZobCtkZzBzeXJsR0lyZWFMd2c0REZXVHp1czZGRXI2cjR4V2dXT1NFalBsSnlBSVhqK29vRjdSTU1PWGEzUWlOVXZrb29HWnB6TVJpb001NlJHTEJJczgxM1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NjM2ODExCWZpbGU6VmFsVE1hbmFnZXJfMC4yLjAtYmV0YS4xMV94NjQtc2V0dXAuZXhlClhsWStzMDYvai8yQTdpSkxkK2hVM1o5VUJaQVRBaDRIZHhkY0NBbEw2ckZkeFRKZHNidGRyR0FsVGdPUkdoN0NNRXhBeG5VVjdFZmhVandtaC90dkFRPT0K",
+      "url": "https://github.com/ValTManager/ValTManager-Releases/releases/download/v0.2.0-beta.11/ValTManager_0.2.0-beta.11_x64-setup.exe"
     }
   }
 }
