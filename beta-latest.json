@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0-beta.7",
-  "notes": "ValTManager 0.2.0 Beta 7 — Beta Friends\n\nCorrections\n- Correction des permissions Manager/Coach pour les compositions, stratégies et lineups.\n- Meilleure synchronisation du contexte cloud.\n- Correction de l’affichage des identités des membres liés.\n\nCette version est destinée au canal Beta Friends.",
-  "pub_date": "2026-09-05T00:00:00.000Z",
+  "version": "0.2.0-beta.8",
+  "notes": "ValTManager 0.2.0 Beta 8 — Beta Friends\n\nCorrections\n- Correction de la liaison entre les cartes du roster et les comptes VTM.\n- Restauration des profils manquants et affichage fiable des identités dans l'équipe et la messagerie.\n- Validation renforcée des liaisons joueur/staff au sein de l'équipe.\n\nCette version est destinée au canal Beta Friends.",
+  "pub_date": "2026-09-05T11:35:57.269Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1RHaUZobCtkZ3kwbFcvbkFmcGM2Q0RyenF4MWI4dmoxNnI0MjZUdVhwVVFvK21zclgxWHkwS3FVUWlWWjFFWHorRWhwc0Vicy9zaFlacGhzMkxTUWFPRFh2c2xlbVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NjA0MzEwCWZpbGU6VmFsVE1hbmFnZXJfMC4yLjAtYmV0YS43X3g2NC1zZXR1cC5leGUKS01NMm5XWkFMbFc5Ri9iU1FlVC9LME5LNkNBclZoWG40WVRLYVNZYWdGVHM1eDBCNm9uUGtZeWtqc2pMd1JGUmJFTGZYYXFOTnVqRDJLZVFscUJjQ0E9PQo=",
-      "url": "https://github.com/ValTManager/ValTManager-Releases/releases/download/v0.2.0-beta.7/ValTManager_0.2.0-beta.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1RHaUZobCtkZzBsSWl5UytpMVNESE9peFRFcks1cGNkWFA3R1lQYXo4K015aFNUaElad2pIU1RnRS9KdnB5dUpKa2Vqa2N2a3h2UlVnTElEb1BoTUVyc1FaWS9uTXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NjA4MDMxCWZpbGU6VmFsVE1hbmFnZXJfMC4yLjAtYmV0YS44X3g2NC1zZXR1cC5leGUKcVErL1A1VEpjSDNEUTVTYlNUS3IzSmNid2ZKa3NuWnJxZGNoK2ROVjhYWlpYQUY1QTJnT2FhQlBOSlJvZWhaQnhlbDRmWXV5MWh3Zy9mS1pCd0hiREE9PQo=",
+      "url": "https://github.com/ValTManager/ValTManager-Releases/releases/download/v0.2.0-beta.8/ValTManager_0.2.0-beta.8_x64-setup.exe"
     }
   }
 }
