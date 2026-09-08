@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0-beta.12",
-  "notes": "✨ Nouveautés\n\n- Interface premium harmonisée sur les pages principales.\n- Nouveau démarrage ValTManager et navigation Recrutement intégrée à Équipe.\n- Parcours Auth et Onboarding en quatre étapes avec états et responsive améliorés.",
-  "pub_date": "2026-09-08T20:06:16Z",
+  "version": "0.2.0-beta.13",
+  "notes": "✨ Correctifs\n\n- Correction de la liaison d’un compte VTM à un joueur du roster.\n- Correction de l’ajout et de la modification des titulaires via l’éditeur d’équipe.\n- Correction d’un problème de formulaire qui provoquait un rechargement de l’application au lieu d’enregistrer le joueur.",
+  "pub_date": "2026-09-08T21:10:34Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1RHaUZobCtkZzlxZk1tNVRwNDRnZkR2WHBlRGtWYlJpYWZGMEtPN2dVK1JpRWVXYlhrWnduUExBUWpEcTRhaWt3OTJKQU1uYUZpTUFqY1VSNE53aTl1VDJkd2FUREFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODk3Nzg4CWZpbGU6VmFsVE1hbmFnZXJfMC4yLjAtYmV0YS4xMl94NjQtc2V0dXAuZXhlCnZXKzFDclBDdHY4TEh5OWJ3UlBGVDhHc3BTZUhXUEh1MERGZERjdTR1cGpMSUZOSngyNmgvNnJpK05Jc3pIOXlMMU1uRGJlZHdZdENhdlozaEEyV0FnPT0K",
-      "url": "https://github.com/ValTManager/ValTManager-Releases/releases/download/v0.2.0-beta.12/ValTManager_0.2.0-beta.12_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1RHaUZobCtkZ3oyaWVTZnZ0eTZhL29wRzdYVlVIc1FTaXRKdFVTdURkMFhDY0p4R0o4YkFpNVlkUGtTcDRjNDJhMVdERnNGZlgvYlJYRXc3c2pxV2l5YkVsV085Y2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTAxNjEzCWZpbGU6VmFsVE1hbmFnZXJfMC4yLjAtYmV0YS4xM194NjQtc2V0dXAuZXhlCjVhM1NFRDlSNGlKTS8wbU43ajRMUjVKS0gybUowdjUzQ1J1ZXBYdDNkNGl0N0E2cGREcUlUWVBZcXJ5RUxFRDF5NkdmaHBaa2wzdUNxYjBuZ2Z0TEJnPT0K",
+      "url": "https://github.com/ValTManager/ValTManager-Releases/releases/download/v0.2.0-beta.13/ValTManager_0.2.0-beta.13_x64-setup.exe"
     }
   }
 }
