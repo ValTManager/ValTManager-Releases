@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0-beta.15",
-  "notes": "🔧 Correctifs\n\n- Correction du refresh global périodique qui reconstruisait inutilement l’application.\n- La synchronisation cloud reste active sans réinitialiser l’interface toutes les 30 secondes.\n- Les brouillons Compositions sont désormais préservés pendant la synchronisation.\n- Les brouillons Tâches sont désormais préservés pendant la synchronisation.\n- Préservation du focus, du scroll, des modales et des états locaux pendant les mises à jour cloud.\n- Correction de l’identification du formulaire Tâches liée à form.id.",
-  "pub_date": "2026-09-09T20:48:49Z",
+  "version": "0.2.0-beta.16",
+  "notes": "🔧 Correctifs\n\n- Correction du bouton « Ajouter cette date » dans les disponibilités.\n- Ajout, retrait et sélection de plusieurs dates dans une disponibilité.\n- Correction de l’affichage de « Toute la journée ».\n- Un joueur peut désormais modifier sa propre carte joueur liée à son compte.\n- Champs modifiables par le joueur : pseudo, Riot ID et rôle esport.\n- Les permissions sensibles restent réservées à l’encadrement.",
+  "pub_date": "2026-09-09T22:24:06Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1RHaUZobCtkZ3ovTWxYVmxMOWI3V2t5Uy9scWZOQk5mcVBtZ0pzcEZ0THBqTmMrNmJJMGNkZTlvb0ZZc2piZm9mdUZLTnRlbnFFQ29pQklyR0lndlprS0tDUXpVU1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTg2Nzk1CWZpbGU6VmFsVE1hbmFnZXJfMC4yLjAtYmV0YS4xNV94NjQtc2V0dXAuZXhlCkw0SHZFQkpuZ0wxYk9yODRadGRuUFZXVXY4WWJYbUtYc29hSVlFbmgzNENzV2taS1RhdFo0RGp5elB1UUluMHlnQ0ZIQzRGTXFiOVlBazQ2bkxtdEF3PT0K",
-      "url": "https://github.com/ValTManager/ValTManager-Releases/releases/download/v0.2.0-beta.15/ValTManager_0.2.0-beta.15_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1RHaUZobCtkZy96RWVlbnZ2SUtoaEFrMXg1L2hhVS93ckRITTh5d3l6dnBKQ3dvdnJyYUlkT1dNcGxlZmh0eGw1Q0YyY3FYcE9vcFZXTjM0WUwvU3RoVG96NFMzaFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTkyMzk0CWZpbGU6VmFsVE1hbmFnZXJfMC4yLjAtYmV0YS4xNl94NjQtc2V0dXAuZXhlCkhlVENMUXpzMXhpT1pUVkI5OEdEQk9ZSVUxVVFldzVRUmdFZ0lHYXBrMVA1UjBQMnBmenN6NHRkeVljcHJDSlBZNmZCMnRuUDVIcWZuQzVuSUNJakRRPT0K",
+      "url": "https://github.com/ValTManager/ValTManager-Releases/releases/download/v0.2.0-beta.16/ValTManager_0.2.0-beta.16_x64-setup.exe"
     }
   }
 }
