@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0-beta.13",
-  "notes": "✨ Correctifs\n\n- Correction de la liaison d’un compte VTM à un joueur du roster.\n- Correction de l’ajout et de la modification des titulaires via l’éditeur d’équipe.\n- Correction d’un problème de formulaire qui provoquait un rechargement de l’application au lieu d’enregistrer le joueur.",
-  "pub_date": "2026-09-08T21:10:34Z",
+  "version": "0.2.0-beta.14",
+  "notes": "✨ Nouveautés\n\n- Disponibilités multi-jours et intégration au calendrier.\n- Absences V2 avec validation Owner, Manager et Coach.\n- Nouveau scoreboard de statistiques et catégorie Premier.\n- VOD Review améliorée.\n- Édition du profil.\n- Identification des auteurs dans le chat Team.\n- Amélioration de l’édition des cartes de l’équipe.\n\n🔧 Correctifs\n\n- Protection des brouillons Compositions et Tâches.\n- Traductions et UX améliorées pour les absences.",
+  "pub_date": "2026-09-09T19:49:33Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1RHaUZobCtkZ3oyaWVTZnZ0eTZhL29wRzdYVlVIc1FTaXRKdFVTdURkMFhDY0p4R0o4YkFpNVlkUGtTcDRjNDJhMVdERnNGZlgvYlJYRXc3c2pxV2l5YkVsV085Y2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTAxNjEzCWZpbGU6VmFsVE1hbmFnZXJfMC4yLjAtYmV0YS4xM194NjQtc2V0dXAuZXhlCjVhM1NFRDlSNGlKTS8wbU43ajRMUjVKS0gybUowdjUzQ1J1ZXBYdDNkNGl0N0E2cGREcUlUWVBZcXJ5RUxFRDF5NkdmaHBaa2wzdUNxYjBuZ2Z0TEJnPT0K",
-      "url": "https://github.com/ValTManager/ValTManager-Releases/releases/download/v0.2.0-beta.13/ValTManager_0.2.0-beta.13_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1RHaUZobCtkZzFXQ3h1OEw5aXo3eWxlYUJjKzBzMmthRjdiUnJqQzVDbllUbTR4anphTzZ5VXBrWFBabzZtekVGZmNwMXh0NjM4S1VyUjVSTW1GTkUrOFdDaWl2b0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTgxOTg2CWZpbGU6VmFsVE1hbmFnZXJfMC4yLjAtYmV0YS4xNF94NjQtc2V0dXAuZXhlCmY5a1JaOEN4WHJWSTZyWG5JTWFqVTFwTmJyUTdzckdVQml5c00wSG5WSGtUcHlZTUoxMHJ6UGgzNlF1NDk2eVk2OWJYMGl6UlpoQXRUMjR0RmtEaERRPT0K",
+      "url": "https://github.com/ValTManager/ValTManager-Releases/releases/download/v0.2.0-beta.14/ValTManager_0.2.0-beta.14_x64-setup.exe"
     }
   }
 }
