@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0-beta.16",
-  "notes": "🔧 Correctifs\n\n- Correction du bouton « Ajouter cette date » dans les disponibilités.\n- Ajout, retrait et sélection de plusieurs dates dans une disponibilité.\n- Correction de l’affichage de « Toute la journée ».\n- Un joueur peut désormais modifier sa propre carte joueur liée à son compte.\n- Champs modifiables par le joueur : pseudo, Riot ID et rôle esport.\n- Les permissions sensibles restent réservées à l’encadrement.",
-  "pub_date": "2026-09-09T22:24:06Z",
+  "version": "0.2.0-beta.17",
+  "notes": "✨ Nouveautés\n\n- Support du multi-équipe pour les comptes staff.\n- Ajout du rôle Tryout avec permissions limitées.\n- Section Tryouts dédiée dans la page Équipe.\n- Promotion Tryout vers Player.\n- Édition des scoreboards enregistrés.\n- Saisie rapide des statistiques joueur par joueur.\n\n🔧 Correctifs\n\n- Correction de la liste des matchs dans la modale Statistiques en mode cloud.\n- Correction de la persistance et de l’affichage des agents dans les compositions enregistrées.\n- Amélioration de la modale Statistiques et de la navigation multi-map.\n- Isolation des notifications et conversations selon l’équipe active.",
+  "pub_date": "2026-09-10T22:59:36Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1RHaUZobCtkZy96RWVlbnZ2SUtoaEFrMXg1L2hhVS93ckRITTh5d3l6dnBKQ3dvdnJyYUlkT1dNcGxlZmh0eGw1Q0YyY3FYcE9vcFZXTjM0WUwvU3RoVG96NFMzaFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTkyMzk0CWZpbGU6VmFsVE1hbmFnZXJfMC4yLjAtYmV0YS4xNl94NjQtc2V0dXAuZXhlCkhlVENMUXpzMXhpT1pUVkI5OEdEQk9ZSVUxVVFldzVRUmdFZ0lHYXBrMVA1UjBQMnBmenN6NHRkeVljcHJDSlBZNmZCMnRuUDVIcWZuQzVuSUNJakRRPT0K",
-      "url": "https://github.com/ValTManager/ValTManager-Releases/releases/download/v0.2.0-beta.16/ValTManager_0.2.0-beta.16_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1RHaUZobCtkZzg0cCttUGhnaUNVQ0RFQ1F6ZkNhdEhtbCtKNWJYZ3EvTHA5NDdUT21Ec2tFODFPN1RzeldnRW02RlR5VTNrVmQ5M3pOZkV5ZWIydmJHeHdxeWRnNGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDgxMDY0CWZpbGU6VmFsVE1hbmFnZXJfMC4yLjAtYmV0YS4xN194NjQtc2V0dXAuZXhlCjZXYlFCUXpvTGRHMFR1WkVJMFRLYjl2TDFTRzhnL2k1WHFpaDZoWDVyMmZxV2VVaWlCMXgwSnNWTkYwR0tTRjB1WDg1Tmlqc2NQNWRjLzBXU0QxaENBPT0K",
+      "url": "https://github.com/ValTManager/ValTManager-Releases/releases/download/v0.2.0-beta.17/ValTManager_0.2.0-beta.17_x64-setup.exe"
     }
   }
 }
