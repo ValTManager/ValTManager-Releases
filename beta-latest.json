@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0-beta.17",
-  "notes": "✨ Nouveautés\n\n- Support du multi-équipe pour les comptes staff.\n- Ajout du rôle Tryout avec permissions limitées.\n- Section Tryouts dédiée dans la page Équipe.\n- Promotion Tryout vers Player.\n- Édition des scoreboards enregistrés.\n- Saisie rapide des statistiques joueur par joueur.\n\n🔧 Correctifs\n\n- Correction de la liste des matchs dans la modale Statistiques en mode cloud.\n- Correction de la persistance et de l’affichage des agents dans les compositions enregistrées.\n- Amélioration de la modale Statistiques et de la navigation multi-map.\n- Isolation des notifications et conversations selon l’équipe active.",
-  "pub_date": "2026-09-10T22:59:36Z",
+  "version": "0.2.0-beta.18",
+  "notes": "🔧 Correctifs\n\n- Correction du parcours de candidature avant Tryout.\n- Un utilisateur peut désormais candidater avant d’être membre de l’équipe.\n- Le staff peut ensuite accepter le candidat en Tryout.\n- Les permissions candidature restent limitées aux propres données du candidat.",
+  "pub_date": "2026-09-10T23:46:56Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1RHaUZobCtkZzg0cCttUGhnaUNVQ0RFQ1F6ZkNhdEhtbCtKNWJYZ3EvTHA5NDdUT21Ec2tFODFPN1RzeldnRW02RlR5VTNrVmQ5M3pOZkV5ZWIydmJHeHdxeWRnNGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDgxMDY0CWZpbGU6VmFsVE1hbmFnZXJfMC4yLjAtYmV0YS4xN194NjQtc2V0dXAuZXhlCjZXYlFCUXpvTGRHMFR1WkVJMFRLYjl2TDFTRzhnL2k1WHFpaDZoWDVyMmZxV2VVaWlCMXgwSnNWTkYwR0tTRjB1WDg1Tmlqc2NQNWRjLzBXU0QxaENBPT0K",
-      "url": "https://github.com/ValTManager/ValTManager-Releases/releases/download/v0.2.0-beta.17/ValTManager_0.2.0-beta.17_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1RHaUZobCtkZys4dUdlYitMMldGc08vTkFGUERWSE1HbnM3MnRZN25ucVRaRWZOa050aUFYVFUvNVd5ZVpab010bTRlQUZkOWEyT3VOVXBUcW5GeGR6NEZKTytEcUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDgzOTI0CWZpbGU6VmFsVE1hbmFnZXJfMC4yLjAtYmV0YS4xOF94NjQtc2V0dXAuZXhlCjV4NDVXNlV3UTg2bFp5QzI1YVpiYmFseEowUU0zZXFjZjBMeDZzT2RzWlhNSFdieE1mZUhOMUsrSzltQ2d4S2VTUXBNODE2dEFocVVLcGtOU2R0eENnPT0K",
+      "url": "https://github.com/ValTManager/ValTManager-Releases/releases/download/v0.2.0-beta.18/ValTManager_0.2.0-beta.18_x64-setup.exe"
     }
   }
 }
