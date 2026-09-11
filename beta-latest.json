@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0-beta.19",
-  "notes": "🔧 Correctifs\n\n- Correction du blocage du formulaire de candidature après une ancienne erreur de synchronisation.\n- Les erreurs Supabase / PostgREST réelles sont maintenant conservées et affichées.\n- Amélioration du calendrier horaire : les événements occupent désormais toute leur durée réelle.\n- Gestion visuelle des chevauchements dans le calendrier.",
-  "pub_date": "2026-09-11T00:14:50Z",
+  "version": "0.2.0-beta.20",
+  "notes": "Ajout du rôle CEO et amélioration du calendrier : gestion correcte des créneaux jusqu'à 00:00, journées complètes et chevauchements.",
+  "pub_date": "2026-09-11T01:04:02Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1RHaUZobCtkZ3lzSTgyQXRjNHRPeXNjN2hTSXdxK2lLZWU4QnJMRk1sK3NSOHVWajR2L3JCS1Vwd3NZRHBRMldGdkN4MXRrQUdjOVVkVkhrTlNtWFM1UjlBWk53bXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDg1NTc3CWZpbGU6VmFsVE1hbmFnZXJfMC4yLjAtYmV0YS4xOV94NjQtc2V0dXAuZXhlCjhJZVllUmpOSjgvdFRqN1JQV1dKbVZ0TXdIcTF4UlJWQkhDSHhtVkU1UVd5TUN0Sjhua1AyQS9mdUVjQ3dxa3QxVjNFWkVvOWZpUlRHaTlMN2ZSMkJRPT0K",
-      "url": "https://github.com/ValTManager/ValTManager-Releases/releases/download/v0.2.0-beta.19/ValTManager_0.2.0-beta.19_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1RHaUZobCtkZzlJNGJwRU9mMGVZbWdqVXBJaE9MSjR1cnRVanN4NE5SMStwdlVld0FaS0xTQ1Jla2JlSFZZRGNWb25JQm5Va29hR1Y5VkVJQWJqcEMzZ3pEWEN4TGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDg4NDk4CWZpbGU6VmFsVE1hbmFnZXJfMC4yLjAtYmV0YS4yMF94NjQtc2V0dXAuZXhlCkVIYjRPWmZpeTNQM0htVTNJNnFFMC94WEJNVERCakhwVlBmSXNyWDNWQlVBT2x1TEdCQ2FESjJzaHlGa2FUNnBodDVZK0thTUwyaGlYR2JvL3dUL0JRPT0K",
+      "url": "https://github.com/ValTManager/ValTManager-Releases/releases/download/v0.2.0-beta.20/ValTManager_0.2.0-beta.20_x64-setup.exe"
     }
   }
 }
