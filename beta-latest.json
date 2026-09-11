@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0-beta.18",
-  "notes": "🔧 Correctifs\n\n- Correction du parcours de candidature avant Tryout.\n- Un utilisateur peut désormais candidater avant d’être membre de l’équipe.\n- Le staff peut ensuite accepter le candidat en Tryout.\n- Les permissions candidature restent limitées aux propres données du candidat.",
-  "pub_date": "2026-09-10T23:46:56Z",
+  "version": "0.2.0-beta.19",
+  "notes": "🔧 Correctifs\n\n- Correction du blocage du formulaire de candidature après une ancienne erreur de synchronisation.\n- Les erreurs Supabase / PostgREST réelles sont maintenant conservées et affichées.\n- Amélioration du calendrier horaire : les événements occupent désormais toute leur durée réelle.\n- Gestion visuelle des chevauchements dans le calendrier.",
+  "pub_date": "2026-09-11T00:14:50Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1RHaUZobCtkZys4dUdlYitMMldGc08vTkFGUERWSE1HbnM3MnRZN25ucVRaRWZOa050aUFYVFUvNVd5ZVpab010bTRlQUZkOWEyT3VOVXBUcW5GeGR6NEZKTytEcUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDgzOTI0CWZpbGU6VmFsVE1hbmFnZXJfMC4yLjAtYmV0YS4xOF94NjQtc2V0dXAuZXhlCjV4NDVXNlV3UTg2bFp5QzI1YVpiYmFseEowUU0zZXFjZjBMeDZzT2RzWlhNSFdieE1mZUhOMUsrSzltQ2d4S2VTUXBNODE2dEFocVVLcGtOU2R0eENnPT0K",
-      "url": "https://github.com/ValTManager/ValTManager-Releases/releases/download/v0.2.0-beta.18/ValTManager_0.2.0-beta.18_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1RHaUZobCtkZ3lzSTgyQXRjNHRPeXNjN2hTSXdxK2lLZWU4QnJMRk1sK3NSOHVWajR2L3JCS1Vwd3NZRHBRMldGdkN4MXRrQUdjOVVkVkhrTlNtWFM1UjlBWk53bXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDg1NTc3CWZpbGU6VmFsVE1hbmFnZXJfMC4yLjAtYmV0YS4xOV94NjQtc2V0dXAuZXhlCjhJZVllUmpOSjgvdFRqN1JQV1dKbVZ0TXdIcTF4UlJWQkhDSHhtVkU1UVd5TUN0Sjhua1AyQS9mdUVjQ3dxa3QxVjNFWkVvOWZpUlRHaTlMN2ZSMkJRPT0K",
+      "url": "https://github.com/ValTManager/ValTManager-Releases/releases/download/v0.2.0-beta.19/ValTManager_0.2.0-beta.19_x64-setup.exe"
     }
   }
 }
