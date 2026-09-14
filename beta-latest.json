@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0-beta.21",
-  "notes": "Beta.21 — Social V1, profils enrichis, messagerie améliorée, gouvernance d'équipe, rôles capitaine, tâches, statistiques de match, visuels des maps, lecteur VOD et annotations horodatées, améliorations du calendrier et optimisations générales.",
-  "pub_date": "2026-09-14T00:13:17.5526341Z",
+  "version": "0.2.0-beta.22",
+  "notes": "Beta.22 — Profils Social enrichis avec bannière, liens et badges, badges Creator/Beta Tester, VOD Review V2 avec annotations typées, améliorations du calendrier, des règles, avertissements et du recrutement, ainsi qu’Auth V2 et préparation des callbacks desktop.",
+  "pub_date": "2026-09-14T19:36:29.9344758Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1RHaUZobCtkZzVKb29ydlVuRFZWamRTVFpIQVIrcW14WTFRc2lMK1NNRWJpOFhvNUNmcUFyTFRJR1FQUFpFbUlkNUV5Vm9SWSs3KzhtSWpjRHEzUEIvQmlkQ3N1Z3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MzQ0Njk2CWZpbGU6VmFsVE1hbmFnZXJfMC4yLjAtYmV0YS4yMV94NjQtc2V0dXAuZXhlClhkL3krZDlpTUthTkV5UlptOVMxbnB6VDhPeTNsTjFXajlhd0dZOFArV2lTSFZLYldGWDdTVk5oVGROT2VEaGRGNlgzOFBkeVByc09IMENWNUtLQ0JBPT0K",
-      "url": "https://github.com/ValTManager/ValTManager-Releases/releases/download/v0.2.0-beta.21/ValTManager_0.2.0-beta.21_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1RHaUZobCtkZzQvdW83S1M4czFjOU5GbC92dERYSTJwNEd1SDNZQTRSSlgzMUxqRGVUYUREeW9LblNaSXQxSmxWN0prRkY0cmdTUUhmU2Z1VW4vbnpXWEJYaXdlUVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDE0Mzg4CWZpbGU6VmFsVE1hbmFnZXJfMC4yLjAtYmV0YS4yMl94NjQtc2V0dXAuZXhlCkR0cmRndTZ0eGNsUmYrMjRjVXRWSnlpYUVNL21VNEJ6MHRnRW81UTloYmJocWhMMXJlV29QdWtENGZPVEJqSUJYRjh2aUtjZ2JvYmhYN0ZURENWK0F3PT0K",
+      "url": "https://github.com/ValTManager/ValTManager-Releases/releases/download/v0.2.0-beta.22/ValTManager_0.2.0-beta.22_x64-setup.exe"
     }
   }
 }
