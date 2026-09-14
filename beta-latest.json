@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0-beta.20",
-  "notes": "Ajout du rôle CEO et amélioration du calendrier : gestion correcte des créneaux jusqu'à 00:00, journées complètes et chevauchements.",
-  "pub_date": "2026-09-11T01:04:02Z",
+  "version": "0.2.0-beta.21",
+  "notes": "Beta.21 — Social V1, profils enrichis, messagerie améliorée, gouvernance d'équipe, rôles capitaine, tâches, statistiques de match, visuels des maps, lecteur VOD et annotations horodatées, améliorations du calendrier et optimisations générales.",
+  "pub_date": "2026-09-14T00:13:17.5526341Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1RHaUZobCtkZzlJNGJwRU9mMGVZbWdqVXBJaE9MSjR1cnRVanN4NE5SMStwdlVld0FaS0xTQ1Jla2JlSFZZRGNWb25JQm5Va29hR1Y5VkVJQWJqcEMzZ3pEWEN4TGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDg4NDk4CWZpbGU6VmFsVE1hbmFnZXJfMC4yLjAtYmV0YS4yMF94NjQtc2V0dXAuZXhlCkVIYjRPWmZpeTNQM0htVTNJNnFFMC94WEJNVERCakhwVlBmSXNyWDNWQlVBT2x1TEdCQ2FESjJzaHlGa2FUNnBodDVZK0thTUwyaGlYR2JvL3dUL0JRPT0K",
-      "url": "https://github.com/ValTManager/ValTManager-Releases/releases/download/v0.2.0-beta.20/ValTManager_0.2.0-beta.20_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1RHaUZobCtkZzVKb29ydlVuRFZWamRTVFpIQVIrcW14WTFRc2lMK1NNRWJpOFhvNUNmcUFyTFRJR1FQUFpFbUlkNUV5Vm9SWSs3KzhtSWpjRHEzUEIvQmlkQ3N1Z3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MzQ0Njk2CWZpbGU6VmFsVE1hbmFnZXJfMC4yLjAtYmV0YS4yMV94NjQtc2V0dXAuZXhlClhkL3krZDlpTUthTkV5UlptOVMxbnB6VDhPeTNsTjFXajlhd0dZOFArV2lTSFZLYldGWDdTVk5oVGROT2VEaGRGNlgzOFBkeVByc09IMENWNUtLQ0JBPT0K",
+      "url": "https://github.com/ValTManager/ValTManager-Releases/releases/download/v0.2.0-beta.21/ValTManager_0.2.0-beta.21_x64-setup.exe"
     }
   }
 }
