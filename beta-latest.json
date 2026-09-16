@@ -1,10 +1,10 @@
 {
   "version": "0.2.0-beta.22",
-  "notes": "Beta.22 — Profils Social enrichis avec bannière, liens et badges, badges Creator/Beta Tester, VOD Review V2 avec annotations typées, améliorations du calendrier, des règles, avertissements et du recrutement, ainsi qu’Auth V2 et préparation des callbacks desktop.",
-  "pub_date": "2026-09-14T19:36:29.9344758Z",
+  "notes": "",
+  "pub_date": "2026-09-16T09:45:32.084Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1RHaUZobCtkZzQvdW83S1M4czFjOU5GbC92dERYSTJwNEd1SDNZQTRSSlgzMUxqRGVUYUREeW9LblNaSXQxSmxWN0prRkY0cmdTUUhmU2Z1VW4vbnpXWEJYaXdlUVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDE0Mzg4CWZpbGU6VmFsVE1hbmFnZXJfMC4yLjAtYmV0YS4yMl94NjQtc2V0dXAuZXhlCkR0cmRndTZ0eGNsUmYrMjRjVXRWSnlpYUVNL21VNEJ6MHRnRW81UTloYmJocWhMMXJlV29QdWtENGZPVEJqSUJYRjh2aUtjZ2JvYmhYN0ZURENWK0F3PT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1RHaUZobCtkZzBZaHRRb3pVM3JnN3JpaWR2alFFekZsTkZSZUlyTnRLNTZPVjVLRTZWNytjZGxoelRrSXE1SEVxWU1rKzdJdWZxT3JIcGZKandGV2w4d09QSCtka3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTUxOTMyCWZpbGU6VmFsVE1hbmFnZXJfMC4yLjAtYmV0YS4yMl94NjQtc2V0dXAuZXhlCnljZlMveE5MQ05nM3RYZDBaeFNGdGlyczlISjgwMTdHclhzS0xkWTl6WVBWdGdaNjBqOVNCbG51dGJpa0RqblNQc3VPNXk1VDdaejAvK1ZnZzdIL0JnPT0K",
       "url": "https://github.com/ValTManager/ValTManager-Releases/releases/download/v0.2.0-beta.22/ValTManager_0.2.0-beta.22_x64-setup.exe"
     }
   }
