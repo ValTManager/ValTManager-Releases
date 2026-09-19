@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0-beta.25",
-  "notes": "Support des VOD MKV : les fichiers .mkv peuvent désormais être importés et sont automatiquement convertis en MP4 H.264/AAC optimisé pour VOD Review.",
-  "pub_date": "2026-09-19T16:58:37.317Z",
+  "version": "0.2.0-beta.26",
+  "notes": "Refonte du pipeline VOD : import MP4 optimisé sans transcodage inutile, conversion MKV améliorée, progression réelle, vérification après enregistrement et meilleure gestion des erreurs.",
+  "pub_date": "2026-09-19T17:56:33.332Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1RHaUZobCtkZzRNQTJjWS9mNFRWbHJQUHRRT3d5WkswUERpaW1CR2NhNWllaEw2dXc3d3djNENxUmhTa29nUDYrUFJPQnVoRkJ4WmFTMGVubmFyTitJdnhScXozdFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODM2NzU3CWZpbGU6VmFsVE1hbmFnZXJfMC4yLjAtYmV0YS4yNV94NjQtc2V0dXAuZXhlCnFoUU10UHlWMnV3blJUbzZ0TjV5L0lXbmxNN0l6amdGeWV4aVlhWXdkV3N4TDFRcmJYSjNzN1pxbVVJekt2SkltZm56amc0YnJUd1UrZ3M1SzNOaUN3PT0K",
-      "url": "https://github.com/ValTManager/ValTManager-Releases/releases/download/v0.2.0-beta.25/ValTManager_0.2.0-beta.25_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1RHaUZobCtkZy9QSUVGRmNNcFU1LzluVHpKNkwvTk12aE84dSt6WFphMkxjbHgzMmE1WWN6ei8ycGs5TEJ4bFBKc0JxbUEwREYwYVZBMVFMcGJuTWxOOFRkNVBPbXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODQwNDM0CWZpbGU6VmFsVE1hbmFnZXJfMC4yLjAtYmV0YS4yNl94NjQtc2V0dXAuZXhlClpWUzU4Vi9rQzdPemljYkhMbVJsZy9xMnorejhWZ1pxSUx2YjcyUkNyd2pmd245cldaWkk0QlI3UG9Bc1U2Q2ZPUTNSOGVlNEI2Z2x3MEQ4aXlmMENnPT0K",
+      "url": "https://github.com/ValTManager/ValTManager-Releases/releases/download/v0.2.0-beta.26/ValTManager_0.2.0-beta.26_x64-setup.exe"
     }
   }
 }
