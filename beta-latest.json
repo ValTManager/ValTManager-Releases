@@ -1,11 +1,11 @@
-{
-  "version": "0.2.0-beta.23",
-  "notes": "",
-  "pub_date": "2026-09-18T19:12:51.000Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1RHaUZobCtkZzFTd2pNeXdrYkFuL2lCaVJYd00reWZ5Vm1YbXlmVjk5L0V1T3FIVWhUTDdhUXJSbk10VVpqejF1c3RTM3lHUHl6YUNuMU5LdnpJcmpTNC90V0JNUUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzU4NzcxCWZpbGU6VmFsVE1hbmFnZXJfMC4yLjAtYmV0YS4yM194NjQtc2V0dXAuZXhlCk9OSWJmRzFMNXBnS3BSa0JoNGhyVlhZSlpUcTUxTUhSNXYzbU9tVXd1eVU3OGRHSEpsaTh6TVlJSkMzWTZzSElrdWgyZDE4d1phdWV0UWlIUWRlNEJ3PT0K",
-      "url": "https://github.com/ValTManager/ValTManager-Releases/releases/download/v0.2.0-beta.23/ValTManager_0.2.0-beta.23_x64-setup.exe"
-    }
-  }
+﻿{
+    "version":  "0.2.0-beta.23",
+    "notes":  "",
+    "pub_date":  "2026-09-18T19:12:51.090Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1RHaUZobCtkZ3gyL0NRMGpROERzc0xtOVlpRy9QYzNNb01VZjV3M3FhZS9ET3lmK0YzeXhNdWZHM3hhTzVLdElNdG5IOWlDVExNdC9iQnVJeFFBWCszMVoxODhKSUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODI5OTcwCWZpbGU6VmFsVE1hbmFnZXJfMC4yLjAtYmV0YS4yM194NjQtc2V0dXAuZXhlCmIzTDhnQzBZUEg5a3AxVlQrcjROWDNOanI5T0JsWUNzRkp4VjNnN0srd080K0kvZnJNckEzalVoK0MxMkc5THlyT3A2Wkp1KzJ1Mnl2amRhaTNyOEJ3PT0K",
+                                             "url":  "https://github.com/ValTManager/ValTManager-Releases/releases/download/v0.2.0-beta.23/ValTManager_0.2.0-beta.23_x64-setup.exe"
+                                         }
+                  }
 }
