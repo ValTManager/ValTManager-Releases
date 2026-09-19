@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0-beta.24",
-  "notes": "Correctif VOD d'équipe : tous les membres peuvent désormais importer une VOD d'équipe. Le remplacement et la suppression restent réservés aux rôles autorisés.",
-  "pub_date": "2026-09-19T16:20:05.784Z",
+  "version": "0.2.0-beta.25",
+  "notes": "Support des VOD MKV : les fichiers .mkv peuvent désormais être importés et sont automatiquement convertis en MP4 H.264/AAC optimisé pour VOD Review.",
+  "pub_date": "2026-09-19T16:58:37.317Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1RHaUZobCtkZzVScHhGeTJoVSttbkxvbzZIMjBQdkRJL1haeUhyTnR0MnYyTlQ0YmRicXVsRC96czlGeGhkZEE0U2QxNmFhWDdIT3d4cDM4bjZ0RUJLakRodDdRbmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODM0NjIzCWZpbGU6VmFsVE1hbmFnZXJfMC4yLjAtYmV0YS4yNF94NjQtc2V0dXAuZXhlCjNOa1dRODZha1VCRnc5SUR6QkNiczk1RVoxVnV0RFkzbVRLVERvdTNHamVKT201N1JMejFZV01NRjFzYldOcUw3bm5wYW8xdmJZYXVQZEdRNWRvNUF3PT0K",
-      "url": "https://github.com/ValTManager/ValTManager-Releases/releases/download/v0.2.0-beta.24/ValTManager_0.2.0-beta.24_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1RHaUZobCtkZzRNQTJjWS9mNFRWbHJQUHRRT3d5WkswUERpaW1CR2NhNWllaEw2dXc3d3djNENxUmhTa29nUDYrUFJPQnVoRkJ4WmFTMGVubmFyTitJdnhScXozdFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODM2NzU3CWZpbGU6VmFsVE1hbmFnZXJfMC4yLjAtYmV0YS4yNV94NjQtc2V0dXAuZXhlCnFoUU10UHlWMnV3blJUbzZ0TjV5L0lXbmxNN0l6amdGeWV4aVlhWXdkV3N4TDFRcmJYSjNzN1pxbVVJekt2SkltZm56amc0YnJUd1UrZ3M1SzNOaUN3PT0K",
+      "url": "https://github.com/ValTManager/ValTManager-Releases/releases/download/v0.2.0-beta.25/ValTManager_0.2.0-beta.25_x64-setup.exe"
     }
   }
 }
