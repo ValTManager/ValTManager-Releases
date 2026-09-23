@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0-beta.26",
-  "notes": "Refonte du pipeline VOD : import MP4 optimisé sans transcodage inutile, conversion MKV améliorée, progression réelle, vérification après enregistrement et meilleure gestion des erreurs.",
-  "pub_date": "2026-09-19T17:56:33.332Z",
+  "version": "0.2.0-beta.27",
+  "notes": "",
+  "pub_date": "2026-09-23T16:13:46.700Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1RHaUZobCtkZy9QSUVGRmNNcFU1LzluVHpKNkwvTk12aE84dSt6WFphMkxjbHgzMmE1WWN6ei8ycGs5TEJ4bFBKc0JxbUEwREYwYVZBMVFMcGJuTWxOOFRkNVBPbXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODQwNDM0CWZpbGU6VmFsVE1hbmFnZXJfMC4yLjAtYmV0YS4yNl94NjQtc2V0dXAuZXhlClpWUzU4Vi9rQzdPemljYkhMbVJsZy9xMnorejhWZ1pxSUx2YjcyUkNyd2pmd245cldaWkk0QlI3UG9Bc1U2Q2ZPUTNSOGVlNEI2Z2x3MEQ4aXlmMENnPT0K",
-      "url": "https://github.com/ValTManager/ValTManager-Releases/releases/download/v0.2.0-beta.26/ValTManager_0.2.0-beta.26_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1RHaUZobCtkZzVjR3BxMi9hblNWRVFxR3JDUU0yZjdPazBEVEtDVTB3TlZXbVB2QklPQ2J4K2JrRnAyZitJVm5sa09uQ3piVERXeTQzL2hDcVVPcVVBTnJFZDdxOVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTgwMDI2CWZpbGU6VmFsVE1hbmFnZXJfMC4yLjAtYmV0YS4yN194NjQtc2V0dXAuZXhlCnpacUNRUWZwQ2FmMXNvZys4VVlGUmVHdjFJa2NiWlU3M0dhSStmaTVpUnBYdDRDWUoxRnBCQ0FOMndTZ1VSSFZIWUJTbDdydEVlc1dpdERVMkEzYUJRPT0K",
+      "url": "https://github.com/ValTManager/ValTManager-Releases/releases/download/v0.2.0-beta.27/ValTManager_0.2.0-beta.27_x64-setup.exe"
     }
   }
 }
