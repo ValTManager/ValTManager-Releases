@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0-beta.27",
-  "notes": "",
-  "pub_date": "2026-09-23T16:13:46.700Z",
+  "version": "0.2.0-beta.28",
+  "notes": "ValTManager Beta.28\n\n- Correction de la création et de la modification des candidatures Tryout.\n- Amélioration de la gestion des pseudos déjà utilisés lors de l'inscription.\n- Ajout du renvoi d'un e-mail de confirmation pour les comptes non vérifiés.\n- Amélioration des messages et diagnostics liés à l'authentification.\n- Divers correctifs de fiabilité.",
+  "pub_date": "2026-09-23T17:10:02.304Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1RHaUZobCtkZzVjR3BxMi9hblNWRVFxR3JDUU0yZjdPazBEVEtDVTB3TlZXbVB2QklPQ2J4K2JrRnAyZitJVm5sa09uQ3piVERXeTQzL2hDcVVPcVVBTnJFZDdxOVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTgwMDI2CWZpbGU6VmFsVE1hbmFnZXJfMC4yLjAtYmV0YS4yN194NjQtc2V0dXAuZXhlCnpacUNRUWZwQ2FmMXNvZys4VVlGUmVHdjFJa2NiWlU3M0dhSStmaTVpUnBYdDRDWUoxRnBCQ0FOMndTZ1VSSFZIWUJTbDdydEVlc1dpdERVMkEzYUJRPT0K",
-      "url": "https://github.com/ValTManager/ValTManager-Releases/releases/download/v0.2.0-beta.27/ValTManager_0.2.0-beta.27_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1RHaUZobCtkZzFmUzU3dUV6aVNTdlVYczR5TFlSSWxlS0JZaE01L1VtU3labG45K3ZwSUFNZ2MvZXBOdERvYVJSNzgrM1FyWjFSWWY1QlBvMEpJcXFGTjlFQzBUZ0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTgzNDAyCWZpbGU6VmFsVE1hbmFnZXJfMC4yLjAtYmV0YS4yOF94NjQtc2V0dXAuZXhlCjYxdUdYWFcra2pnWVhoK3lMQXBjNFNNUjRGb2FTNkY1NHh2ak9zRjg3MHRYcjZHZVRHait3aWZJY0lqMWxZckxtTElVMm9Vdm4yeFVsdXlqOE9xM0RBPT0K",
+      "url": "https://github.com/ValTManager/ValTManager-Releases/releases/download/v0.2.0-beta.28/ValTManager_0.2.0-beta.28_x64-setup.exe"
     }
   }
 }
